@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Berkay HANÇER**
 
 ### 🚀 Web & Algorithmic Trading Developer | ⚛️ React & Next.js Enthusiast | 🐍 Python & C# Aficionado 
-### &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp| 🎮 Unity Developer |
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 🎮 Unity Developer |
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=Crafting+Web+and+Algorithmic+Trading+Solutions...)](https://git.io/typing-svg)
