@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Berkay HANÇER**
 
-# 🚀 Web & Algorithmic Trading Developer | ⚛️ React & Next.js Enthusiast | 🐍 Python & C# Aficionado | 🎮 Unity Developer
+### 🚀 Web & Algorithmic Trading Developer | ⚛️ React & Next.js Enthusiast | 🐍 Python & C# Aficionado | 🎮 Unity Developer
 
 ---
 
