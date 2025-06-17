@@ -1,11 +1,12 @@
-<!--👇 Pixel art coding scene GIF👇-->
+<!--👇 Ortalanmış GIF gösterimi 👇-->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/berkayhancer21/berkayhancer21/main/assets/pixel-coding-scene.gif" 
-    alt="Pixel Art Developer Scene" 
+  <img
+    src="https://raw.githubusercontent.com/<berkayhancer21>/<berkayhancer21>/main/assets/pixel-coding-scene.gif"
+    alt="Pixel Art Coding Scene"
     width="720"
   />
 </p>
+
 
 ---
 
