@@ -1,3 +1,14 @@
+<!--👇 Pixel art coding scene GIF👇-->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/berkayhancer21/berkayhancer21/main/assets/pixel-coding-scene.gif" 
+    alt="Pixel Art Developer Scene" 
+    width="720"
+  />
+</p>
+
+---
+
 # 👋 Hey there, I'm **Berkay HANÇER**
 
 ### | 🚀 Web & Algorithmic Trading Developer |&nbsp;&nbsp;| ⚛️ React & Next.js Enthusiast |&nbsp;&nbsp; | 🐍 Python & C# | 
