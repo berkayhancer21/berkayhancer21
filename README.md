@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 Who Am I?
-- 🎓 Graduated **1st** in Computer Engineering from **Balıkesir University** with a **3.71 GPA**.
+- 🎓 Graduated **1st** in Computer Engineering from **Balıkesir University** with a **3.72 GPA**.
 - 💻 Passionate about **Web Development** and **Algorithmic Trading**.
 - 🔭 Skilled in **React**, **Next.js**, **HTML**, **CSS**, **JavaScript**, **Python**, **C#**, and **Unity**.
 - 📈 Developed numerous projects in both domains.
